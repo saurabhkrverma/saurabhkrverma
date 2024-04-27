@@ -2,7 +2,7 @@
 
 <img  align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="280" />
 
-<p>Welcome to my page! </br> I'm Saurabh, full stack web / app developer with more than 10 years experience from <img src="https://flagcdn.com/16x12/in.png" width="16" height="12" alt="India"> <b>Bengaluru, India</b>. 
+<p>I'm Saurabh, full stack web / app developer with more than 10 years experience from <img src="https://flagcdn.com/16x12/in.png" width="16" height="12" alt="India"> <b>Bengaluru, India</b>. 
 <p>I am a technology enthusiast 👨🏻‍💻, with expertise 🤷in web development 🌐, majorly in JavaScript & its Frameworks. I spend my days dabbling my hands 🙌🏻 in different areas of full-stack development.</p>
 
 - 💼 any freelance work? do reach, [email](mailto:saurabhkumar.cs11@gmail.com) :)
